@@ -1,4 +1,4 @@
-# selfblock
+﻿# selfblock
 
 這是自製的 micro:bit 積木
 
@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-selfblock=github.com/tsjeng45/pxt-selfblock
+selfblock=github.com/gd4166/Wu
 ```
